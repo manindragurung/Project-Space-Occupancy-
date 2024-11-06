@@ -1,0 +1,1 @@
+The intent of this document is to provide visual cues for groups of people in common areas as well as real-time tracking of available workplaces (such as desks, booths, or meeting rooms). This aids in managing occupancy levels in real time, maximising space utilisation, and preventing overcrowding.
